@@ -1,0 +1,4 @@
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+{"username":"YOUR_NAME"}  // Install Rest Extension - Check whether the request and response is working...
